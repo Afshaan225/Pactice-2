@@ -12,7 +12,7 @@
     <header>
         <div class="container">
             <img src="images.jpg">
-            <h1>My Portfolio</h1>
+            <h1>My Portfolio </h1>
             <nav>
                 <ul>
                     <li><a href="#about">About</a></li>
