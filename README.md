@@ -24,46 +24,5 @@
         </div>
     </header>
 
-    <section id="about">
-        <div class="container">
-            <h2>About Me</h2>
-            <p>Hello! I'm vartika, pursuing bba in sales and marketing  passionate about learning new skills .</p>
-        </div>
-    </section>
-
-    <section id="skills">
-        <div class="container">
-            <h2>Skills</h2>
-            <ul>
-                <li>communication</li>
-                <li>digital marketing</li>
-                <li>content writing</li>
-            </ul>
-        </div>
-    </section>
-
-    <section id="projects">
-        <div class="container">
-            <h2>internship</h2>
-            <div class="project-card">
-                <h3>internship1</h3>
-                <p>working as a content writer in irrigatech</p>
-            </div>
-    </section>
-
-    <section id="contact">
-        <div class="container">
-            <h2>Contact</h2>
-            <p>Feel free to reach out to me at:</p>
-            
-            </ul>
-        </div>
-    </section>
-
-    <footer>
-        <div class="container">
-            <p>&copy; 2024 vartika. All Rights Reserved.</p>
-        </div>
-    </footer>
 </body>
 </html>
